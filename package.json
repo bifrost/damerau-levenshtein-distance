@@ -1,0 +1,23 @@
+{
+  "name": "damerau-levenshtein-distance",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-conomic/damerau-levenshtein-distance"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-conomic/damerau-levenshtein-distance/issues"
+  },
+  "homepage": "https://github.com/e-conomic/damerau-levenshtein-distance",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "mocha-jshint": "^0.0.9"
+  }
+}
